@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Part3
+comment0.text=\r\n\ Resources\:\ https\://www.dukelearntoprogram.com//course2/index.php\r\n\r\n\ @author\ stasbutuzov\r\n\ @version\ Mar\ 25,\ 2021\r\n
+comment1.params=dna\ startIndex\ stopCodon
+comment1.target=int\ findStopCodon(java.lang.String,\ int,\ java.lang.String)
+comment10.params=
+comment10.target=void\ testProcessGenes2()
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=dna
+comment2.target=java.lang.String\ findGene(java.lang.String)
+comment3.params=dna
+comment3.target=edu.duke.StorageResource\ getAllGenes(java.lang.String)
+comment4.params=stringa\ stringb
+comment4.target=int\ countCodon(java.lang.String,\ java.lang.String)
+comment5.params=dna
+comment5.target=float\ cgRatio(java.lang.String)
+comment6.params=dna
+comment6.target=int\ countCTG(java.lang.String)
+comment7.params=dna
+comment7.target=int\ countGenes(java.lang.String)
+comment8.params=sr
+comment8.target=void\ processGenes(edu.duke.StorageResource)
+comment9.params=
+comment9.target=void\ testProcessGenes()
+numComments=12
